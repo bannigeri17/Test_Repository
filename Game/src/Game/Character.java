@@ -37,7 +37,7 @@ public class Character {
             form = "conman";
         }
         if (t == 6){
-            
+            form = "other";
         }
     }
     
